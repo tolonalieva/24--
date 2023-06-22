@@ -33,6 +33,7 @@ li{
 .block-card{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 50px;
 }
 .card{
     width: 370px;
@@ -63,8 +64,18 @@ li{
 
 .icon{
     color: #F16214;
-    margin: 20px 0;
+    margin: 18px 0;
     padding-left: 110px;
+}
+.icon2{
+    color: #F16214;
+    margin: 18px 0;
+    padding-left: 185px;
+}
+.icon3{
+    color: #F16214;
+    margin: 18px 0;
+    padding-left: 155px;
 }
 .sun{
     margin-top: -2px;
