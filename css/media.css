@@ -1,0 +1,60 @@
+@media screen and (max-width: 1165px) {
+    .card{
+        width: 330px;
+    }
+    .img{
+        width: 330px;
+        height: 230px;
+    }
+    .kk{
+        display: none;
+    }
+}
+@media screen and (max-width: 1048px){
+    .card{
+        width: 280px;
+        height: 370px;
+    }
+    .img {
+        width: 280px;
+        height: 210px;
+    }
+    .icon2{
+        margin: 23px 0;
+        padding-left: 109px;
+    }
+    .icon4{
+        margin: 22px 0;
+        padding-left: 177px;
+    }
+    .title2{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 915px){
+    .block-card{
+        display: block;
+    }
+    .card{
+        margin: 35px 20px;
+    }
+    .input2{
+        left: 57%;
+    }
+    .p{
+        left: 58.5%;
+        margin: -36px 10px;
+    }
+    
+}
+@media screen and (max-width: 380px) {
+    .input2{
+        left: 60%;
+    }
+    .p{
+        left: 62.5%;
+    }
+    .More{
+        margin-left: -35px;
+    }
+}
